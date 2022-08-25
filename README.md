@@ -11,3 +11,5 @@
 8. git checkout -b rama'-heroes (Permite crear una nueva rama)
 9. git merge rama-heroes (unir cambios a master)
 10. git branch -d rama-heroes(borra la)
+11. git push (toma todos los cambios y lo lleva a github)
+12. git commit -am (une git add , mas git commit -m)
